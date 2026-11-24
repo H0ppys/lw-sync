@@ -1,0 +1,36 @@
+﻿# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+*.spec.bak
+
+# 运行产物 / 敏感
+logs/
+*.log
+token_cache.json
+*_token.json
+config.ini
+.env
+*.db
+*.db-shm
+*.db-wal
+*.ndjson
+*.jsonl
+*.manifest.json
+tmp_*
+shots/
+.tmp/
+.cache/
+
+# node
+node_modules/
+npm-debug.log*
+
+# 系统
+Thumbs.db
+.DS_Store
+desktop.ini

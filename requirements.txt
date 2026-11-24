@@ -1,0 +1,3 @@
+﻿# 纯标准库实现（tkinter + urllib + ssl + configparser）
+# 外部依赖：lark-cli.exe（飞书官方 CLI），不属于 Python 包
+# 运行时 Python >= 3.10
